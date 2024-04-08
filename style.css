@@ -6,8 +6,8 @@
 
 body {
     font-family: "Quicksand", sans-serif;
-    background:#1c1c1c;
-    color: #fff;
+    background:#fff;
+    color: black;
 }
 section{
     min-height: 100vh;
